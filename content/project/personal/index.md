@@ -24,6 +24,11 @@ I try to balance work with some life... Here's a smattering of what I get up to.
 
 {{< figure src="/img/outdoors/canoe.jpg" caption="Building a skin-on-frame canoe. The boat kind of looks like it would float in this picture." width="600">}}
 
+{{< figure src="/img/BucksRun.png" caption="Nordic skiing on man-made snow near Ann Arbor Michigan. Sometimes, you ski on whatever is available." width="600">}}
+
+{{< figure src="/img/Birkie.jpeg" caption="My first Birkie, and my second ski race ever!" width="600">}}
+
+
 {{< figure src="/img/outdoors/Are_we_in_theBC_GlacierPeakW.JPG" caption="Have we reached the backcountry yet? Glacier Peak Wilderness, WA. PC Todd Anderson" width="600">}}
 
 {{< figure src="/img/outdoors/IMG_9330.jpg" caption="I'm usually happiest when I'm in glaciated landscapes. Here I'm goofing off with my sister Suzanne in Norway." width="600">}}

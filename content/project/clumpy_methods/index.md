@@ -2,7 +2,7 @@
 date = "2017-02-10T00:00:00"
 draft = false
 tags = ["project", "methods", "clumped isotopes"]
-title = "Developing the Methods of Clumped Isotope Geochemistry"
+title = "Developing Methods of Clumped Isotope Geochemistry"
 summary = "Geeky but necessary"
 math = false
 profile = false

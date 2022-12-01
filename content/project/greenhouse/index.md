@@ -30,6 +30,6 @@ Another aspect of this project is to determine if greenhouse climates were seaso
 
 {{< figure src="/img/Utah.jpg" caption="Field work in the Kaiparowits Formation, Utah.">}}
 
-I'm currently working on a late Paleocene to early Eocene record from the Goler Formation in California. This is another stratigraphic record of coastal hothouse climates. There are beautifully preserved oyster shells. Through measuring the clumped and triple oxygen isotopes in these oysters, I'm learning about upstream hydrology, temperatures, and paleoaltimetry. More results coming soon here! 
+I'm currently working on a late Paleocene to early Eocene record from the Goler Formation in California. This is another stratigraphic record of coastal hothouse climates. There are beautifully preserved oyster shells. Through measuring the clumped and triple oxygen isotopes in these oysters, we're learning about upstream hydrology, temperatures, and paleoaltimetry. More results coming soon here! 
  
 {{< figure src="/img/Goler1_picture.png" caption="Eocene oyster shell from the Goler Fm, CA.">}}

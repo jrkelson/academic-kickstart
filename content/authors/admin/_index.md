@@ -10,18 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: NSF EAR Postdoctoral Fellow
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: Earth and Environmental Sciences University of Michigan, Ann Arbor
-  url: "https://sites.lsa.umich.edu/petersen-group/"
+  url: "https://sites.lsa.umich.edu/levin-lab/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include terrestrial paleoclimate and stable isotope geochemistry.
 
 interests:
-- Climate change
 - Terrestrial paleoclimate
 - Sedimentary records
 - Soils & pedogenic carbonate
@@ -64,5 +63,5 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am a geoscientist. I research modern and geologic global change through the lens of stable isotopes in sediments. I wear a few hats - stable isotope geochemist, soil scientist, and sedimentary geologist. I spend time in the lab and in the field.
+Welcome! I am a sedimentary geochemist and paleoclimatologist. I research modern and ancient environmental change on land, primarily through the lens of stable isotopes in sediments. I am currently fascinated by soils because they make up the physical interface between climates and landscapes.
 {{% staticref "files/cv.pdf" %}}Download my CV here.{{% /staticref %}}
